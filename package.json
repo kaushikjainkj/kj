@@ -2,6 +2,7 @@
   "name": "findage",
   "version": "0.1.0",
   "private": true,
+  "https://kaushikjainkj.github.io/kj/",
   "dependencies": {
     "@material-ui/core": "^3.7.1",
     "react": "^16.7.0",
